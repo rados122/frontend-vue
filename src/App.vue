@@ -2,6 +2,6 @@
 import CampaignTable from './components/CampaignTable.vue';
 </script>
 <template>
-  <CampaignTable></CampaignTable>
   <Toast />
+  <CampaignTable></CampaignTable>
 </template>

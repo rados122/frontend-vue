@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "label": "Standard"
+  },
+  {
+    "id": 2,
+    "label": "AB Test"
+  },
+  {
+    "id": 3,
+    "label": "MV Test"
+  }
+]
